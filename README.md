@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh ( a6h1 )</h1>
-<h3 align="center">An Cybersecurity Analyst ,Bug hunter and Independent Cybersecurity Researcher</h3>
+<h3 align="center">An Cloud security enthusiast,Bug hunter, and Independent Cybersecurity Researcher</h3>
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
 
